@@ -9,7 +9,7 @@ Hello there,
 * There are new versions of patternplate-server and patternplate
 * patternplate-server v0.13.9 for stability
 * patternplate v0.15.0-beta / patternplate-server v0.14.*-beta for performance
-* Install the new version via npm install patternplate@beta
+* Install the new version via `npm install patternplate@beta`
 * Report any regression you may find to patternplate-server/issues and state the version you are using
 
 I just released several versions of patternplate-server and patternplate and here is what this is about:
@@ -21,12 +21,12 @@ To avoid the same for the next try on incremental builds there now is
 
 ## patternplate-server v0.14.*-beta
 This introduces a revisited version of the incremental build, which
-analyses mtimes of sources and artifacts on 1 source → n artifacts level
-prunes orphaned artifacts on the file level
-derives dependencies for the artifacts package.json from the build run
-reenables the read cache
-allows for fine-grained control of what actually ends up in the artifacts package.json
-sports significantly better performance
+* analyses mtimes of sources and artifacts on 1 source → n artifacts level
+* prunes orphaned artifacts on the file level
+* derives dependencies for the artifacts package.json from the build run
+* reenables the read cache
+* allows for fine-grained control of what actually ends up in the artifacts package.json
+* sports significantly better performance
 All this goodness comes with a price tag attached, namely I expect some regressions.
 
 First, these are massive changes to the commonjs task and the underlying pattern abstraction.
@@ -36,9 +36,9 @@ This leads us to
 
 ## patternplate v0.15.0-beta
 This merely exists to let you install the patternplate-server v0.14.*-beta range conveniently. To do so just
-
+```
 npm install patternplate@beta
-
+```
 and you should be good to go.
 
 
