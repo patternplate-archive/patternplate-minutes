@@ -49,3 +49,13 @@
     - @felabr: demo dependencies could behave like `package.json`
     - @marneb: Easy to document and explain
     - @laskue: Would be the dry approach
+
+## Other topics
+* @ralbol: Meetings could be offsite, should be open to non-S2s
+* @laskue: I know there are devs at clients interested
+
+## Next steps
+* @marneb: will send a reminder to everyone about:
+* Everyone interested in using the dogfeeding time sends @marneb an email with a feature he'd like to implement until Monday Februray 1th. Tuesday will be a meeting with the interested devs about allocation of dogfeeding time
+* @laskue: the features should be organised as issues on github, so that people can +1
+* @marneb: will organize a meeting with interested people at the start of next week
