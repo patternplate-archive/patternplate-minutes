@@ -44,6 +44,9 @@ As much functionality as possible is deferred to plugins.
 #### Plug and Play
 Setup, starting and deployment of Style Guides should be a matter of minutes when using the platform.
 
+#### Extensible
+Plugin system to provide customized functionality, reduce core build to basics -> keep it simple
+
 ## Vision discussion
 * The group asserts the mission statement is okay as it is
 * No immediate problems with the top level principles
