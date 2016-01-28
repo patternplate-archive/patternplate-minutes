@@ -46,5 +46,6 @@
   - @knisterpeter: dangerous because of unwanted prop combination which than become a requirement
   - @felabr-s2: keep children in mind
   - @marneb: Demo dependencies are important, available in demo only!
-
-## Time budget splitting
+    - @felabr: demo dependencies could behave like `package.json`
+    - @marneb: Easy to document and explain
+    - @laskue: Would be the dry approach
