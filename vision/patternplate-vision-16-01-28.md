@@ -40,6 +40,11 @@
   - @marneb: search is manadatory dependency. Resulting tasks: search, tagging system, customizeable structuring
   - @knisterpeter: idea of saving view setting in storage
   - @marneb: violates thought of single source of truth
-  - 
+* The source is the styleguide
+  - @felabr-s2: display of permutations is hard
+  - @marneb: idea of interactive demos -> configure interface for props
+  - @knisterpeter: dangerous because of unwanted prop combination which than become a requirement
+  - @felabr-s2: keep children in mind
+  - @marneb: Demo dependencies are important, available in demo only!
 
 ## Time budget splitting
