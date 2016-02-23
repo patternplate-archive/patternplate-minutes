@@ -11,3 +11,4 @@ Google group archives as long as [the group](https://groups.google.com/a/sinners
 ## Meetings
 Transcripts of meetings held at S2 concerning patternplate
 * [patternplate: state of the union and vision](./vision/patternplate-vision-16-01-21.md)
+* [patternplate: state of the union and vision 2](./vision/patternplate-vision-16-01-28.md)
