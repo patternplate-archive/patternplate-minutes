@@ -1,3 +1,6 @@
+> # ⚠️ Deprecated
+> Use instead: https://patternplate.github.io/
+
 # patternplate-minutes
 Minutes and notes of patternplate-related meetups, user groups
 
